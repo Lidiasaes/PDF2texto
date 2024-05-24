@@ -7,4 +7,4 @@ PyMuPDF==1.22.5
 pypdf==3.15.1
 PyPDF2==3.0.1
 streamlit==1.35.0
-fitz
+﻿fitz==0.0.1.dev2
