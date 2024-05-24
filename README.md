@@ -1,6 +1,6 @@
 # PDF2texto
 
-Welcome to PDF2TEXTO,
+Welcome to [PDF2TEXTO](https://pdf2texto.streamlit.app/),
 
 This is an open source project to deploy a webpage, upload a pdf file and download their .txt file content.
 It works well for any selectable text pdf document. It does not work for OCR or similar pdf documents. 
@@ -16,4 +16,4 @@ python -m streamlit run app.py
 I used [this tutorial](https://www.youtube.com/watch?v=VqgUkExPvLY) as first steps for building the website with Streamlit.
 
 
-You can use PDF2TEXTO [here](LINK)
+You can use PDF2TEXTO [here](https://pdf2texto.streamlit.app/)
