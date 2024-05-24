@@ -19,7 +19,6 @@ def load_file():
             # Read and print the text from the PDF
             pdf_text = read_pdf(file)
             if pdf_text:
-                st.write(pdf_text)
                 download_txt_converted_file(pdf_text)
             else:
                 st.error("Could not read text from the pdf")
@@ -32,6 +31,7 @@ def load_file():
 def download_txt_converted_file(text_content):
     if text_content:
         st.download_button("Download your text content!", text_content, file_name="pdf2texto_converted.txt")
+        st.write(pdf_text)
         st.write("\n\n:violet[Thank you! :confetti_ball:]")
 
 
