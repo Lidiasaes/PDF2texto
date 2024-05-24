@@ -1,0 +1,11 @@
+[server]
+enableXsrfProtection = false
+enableCORS = false
+
+
+
+[theme]
+base= "light"
+font="script"
+
+primaryColor="purple"
