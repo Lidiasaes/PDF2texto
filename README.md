@@ -6,7 +6,7 @@ This is an open source project to deploy a webpage, upload a pdf file and downlo
 There are 2 versions:
 
 * [PDF2texto.v.1](https://pdf2texto.streamlit.app/): only works for selectable text.
-* [PDF2texto.v.2](): works for any type of pdf file (OCR implemented). 
+* [PDF2texto.v.2](https://colab.research.google.com/drive/1b5Vaa88WOSMKqvIBGRtgVcZmquNhv_eH?usp=sharing): works for any type of pdf file (OCR implemented). 
 
 
 ------------------------------
