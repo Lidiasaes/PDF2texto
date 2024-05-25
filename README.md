@@ -13,20 +13,20 @@ There are 2 versions available:
 **How to use it?**
 1. Run the Colaboratory notebook cell by cell.
 2. The last cell will return an output similar to this one:
-   
-> [!NOTE]
->You can now view your Streamlit app in your browser.
-> 
->Local URL: http://localhost:9012
->
->Network URL: http://123.45.6.78:9012
-> 
->External URL: http://12.345.678.90:9012
-> 
-> 
->npx: installed 22 in 2.441s
-> 
->your url is: https://nice-forks-start.loca.lt
+```
+You can now view your Streamlit app in your browser.
+ 
+Local URL: http://localhost:9012
+
+Network URL: http://123.45.6.78:9012
+
+External URL: http://12.345.678.90:9012
+ 
+ 
+npx: installed 22 in 2.441s
+ 
+your url is: https://nice-forks-start.loca.lt
+```
 
 3. In 'External URL', copy the number appearing between https and the port. In this example: 12.345.678.904
 4. Click in 'your url is:'. It will pop up a new window.
