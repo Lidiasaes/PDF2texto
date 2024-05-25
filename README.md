@@ -1,4 +1,4 @@
-#  PDF2texto:sparkles:
+#  PDF2texto:sparkless:
 
 Welcome to **PDF2TEXTO**:sparkles:,
 
