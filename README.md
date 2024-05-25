@@ -1,19 +1,13 @@
-#  [PDF2texto](https://pdf2texto.streamlit.app/)
+#  PDF2texto
 
-Welcome to [PDF2TEXTO](https://pdf2texto.streamlit.app/),
+Welcome to PDF2TEXTO,
 
 This is an open source project to deploy a webpage, upload a pdf file and download their .txt file content.
-It works well for any selectable text pdf document. It does not work for OCR or similar pdf documents. 
+There are 2 versions:
 
+* [PDF2texto.v.1](https://pdf2texto.streamlit.app/): only works for selectable text, you can find it [here](https://pdf2texto.streamlit.app/)
+* [PDF2texto.v.2](): works for any type of pdf file (OCR implemented). 
 
-How to use it? 
-Copy the project in a folder and use the following commands in Windows:
-cd to your folder
-install requirements 
-python -m streamlit run app.py
 
 ------------------------------
 I used [this tutorial](https://www.youtube.com/watch?v=VqgUkExPvLY) as first steps for building the website with Streamlit.
-
-
-You can use PDF2TEXTO [here](https://pdf2texto.streamlit.app/)
