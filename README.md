@@ -30,7 +30,7 @@ There are 2 versions available:
 
 3. In 'External URL', copy the number appearing between https and the port. In this example: 12.345.678.904
 4. Click in 'your url is:'. It will pop up a new window.
-5. Paste the number you copied in step 3. Click 'Submit'. It will start running :sparkles::sparkles::sparkles:.
+5. Paste the number you copied in step 3. Click 'Submit'. It will start running :sparkles::sparkles::sparkles:
 
 
 ------------------------------
