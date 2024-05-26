@@ -40,8 +40,8 @@ I used [this tutorial](https://www.youtube.com/watch?v=VqgUkExPvLY) as first ste
 
 
 # [Language2Language](https://colab.research.google.com/drive/1NFONy8DlBkavwlEBJhT_2NPK6ZwikSrP?usp=sharing) :sparkles:
-This is the second part of the project. You can upload a .txt file. Select the source language, the target language, and automatically translate it! 
+This is the second part of the project. You can upload a .txt file. Select the source language, the target language, and automatically translate it! This code uses [these models](https://github.com/Helsinki-NLP/Opus-MT). 
 
-Not all languages are supported, as this is a prototype, only three (English, Spanish, French) are used. If you want more, just add them easily! :sparkles:
+Not all languages are supported, as this is a prototype, the ones you may find in [this list](https://developers.google.com/admin-sdk/directory/v1/languages?hl=es-419). If you want more, just add them easily! :sparkles:
 
 You may need an account on Hugging Face in order to get your own Acess Token
