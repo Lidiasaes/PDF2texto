@@ -35,3 +35,13 @@ your url is: https://nice-forks-start.loca.lt
 
 ------------------------------
 I used [this tutorial](https://www.youtube.com/watch?v=VqgUkExPvLY) as first steps for building the website with Streamlit
+
+
+
+
+# [Language2Language](https://colab.research.google.com/drive/1NFONy8DlBkavwlEBJhT_2NPK6ZwikSrP?usp=sharing) :sparkles:
+This is the second part of the project. You can upload a .txt file. Select the source language, the target language, and automatically translate it! 
+
+Not all languages are supported, as this is a prototype, only three (English, Spanish, French) are used. If you want more, just add them easily! :sparkles:
+
+You may need an account on Hugging Face in order to get your own Acess Token
