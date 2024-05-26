@@ -40,8 +40,9 @@ I used [this tutorial](https://www.youtube.com/watch?v=VqgUkExPvLY) as first ste
 
 
 # Language2Language :sparkles:
-This is the second part of the project. You can upload a .txt file. Select the source language, the target language, and automatically translate it! You should type your desired language by following [these rules](https://github.com/Helsinki-NLP/Opus-MT), from Helsinki-NLP/Opis-MT models.
+This is the second part of the project. You can upload a .txt file. Select the source language, the target language, and automatically translate it! You should type your desired language by following [this list](https://developers.google.com/admin-sdk/directory/v1/languages?hl=es-419).
+The models used are found [here](https://github.com/Helsinki-NLP/Opus-MT), in Helsinki-NLP/Opis-MT.
 
-Not all languages are supported, as this is a prototype, the ones you may find in [this list](https://developers.google.com/admin-sdk/directory/v1/languages?hl=es-419). If you want more, just add them easily! :sparkles:
+Not all languages are supported, as this is a prototype. If you want more, just add them easily in the code! :sparkles:
 
 You may need an account on Hugging Face in order to get your own Acess Token
