@@ -16,11 +16,11 @@ There are 2 versions available:
 ```
 You can now view your Streamlit app in your browser.
  
-Local URL: http://localhost:9012
+Local URL: http://localhost:8501
 
-Network URL: http://123.45.6.78:9012
+Network URL: http://123.45.6.78:8501
 
-External URL: http://12.345.678.90:9012
+External URL: http://12.345.678.90:8501
  
  
 npx: installed 22 in 2.441s
@@ -28,7 +28,7 @@ npx: installed 22 in 2.441s
 your url is: https://nice-forks-start.loca.lt
 ```
 
-3. In 'External URL', copy the number appearing between https and the port. In this example: 12.345.678.904
+3. In 'External URL', copy the number appearing between https and the port (:8501). In this example: 12.345.678.904
 4. Click in 'your url is:'. It will pop up a new window.
 5. Paste the number you copied in step 3. Click 'Submit'. It will start running :sparkles::sparkles::sparkles:
 
