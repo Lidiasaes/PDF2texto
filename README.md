@@ -28,7 +28,7 @@ npx: installed 22 in 2.441s
 your url is: https://nice-forks-start.loca.lt
 ```
 
-3. In 'External URL', copy the number appearing between https and the port (:8501). In this example: 12.345.678.904
+3. In 'External URL', copy the number appearing between https and the port (:8501). In this example: 12.345.678.90
 4. Click in 'your url is:'. It will pop up a new window.
 5. Paste the number you copied in step 3. Click 'Submit'. It will start running :sparkles::sparkles::sparkles:
 
