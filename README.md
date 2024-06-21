@@ -1,3 +1,7 @@
+
+<img src="https://github.com/Lidiasaes/PDF2texto/assets/135040360/0786cbd8-aecb-4dc6-9be4-b73b6ac5f617" width= "400" height="400"/> 
+
+
 #  PDF2texto :sparkles:
 
 Welcome to **PDF2TEXTO**:sparkles:,
