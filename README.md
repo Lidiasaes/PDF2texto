@@ -12,7 +12,7 @@ There are 2 versions available:
 
 **How does it work?**
 
-<img src="https://github.com/user-attachments/assets/ec5ffef2-8d50-495f-a602-04042259cb40" width= "400" height="400"/> 
+<img src="https://github.com/user-attachments/assets/ec5ffef2-8d50-495f-a602-04042259cb40" width= "500" height="500"/> 
 
 
 **How to use it?**
