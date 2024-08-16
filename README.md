@@ -1,7 +1,4 @@
 
-<img src="https://github.com/Lidiasaes/PDF2texto/assets/135040360/0786cbd8-aecb-4dc6-9be4-b73b6ac5f617" width= "400" height="400"/> 
-
-
 #  PDF2texto :sparkles:
 
 Welcome to **PDF2TEXTO**:sparkles:,
@@ -12,6 +9,10 @@ There are 2 versions available:
 
 * [PDF2texto.v.1](https://pdf2texto.streamlit.app/): only works for selectable text (the code is this repo).
 * [PDF2texto.v.2](https://github.com/Lidiasaes/PDF2texto/blob/main/Streamlit_Colaboratory/Streamlit_PDF2texto_v_2.ipynb): works for any type of pdf file (OCR implemented; the code is found in folder Streamlit_Colaboratory).
+
+**How does it work?**
+
+<img src="https://github.com/user-attachments/assets/ec5ffef2-8d50-495f-a602-04042259cb40" width= "400" height="400"/> 
 
 
 **How to use it?**
